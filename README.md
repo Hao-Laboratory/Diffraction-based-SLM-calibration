@@ -1,1 +1,1 @@
-# Diffraction-based-SLM-calibration
+The code presented here is used to simulate diffraction patterns of the spatial light modulator. For detailed calibration methods, please consult our paper: "X. Liu, S. Tu, C. Kuang, X. Liu, X. Hao, Calibration of phase-only liquid-crystal spatial light modulators by diffractogram analysis. Opt. Lasers Eng. 156, 107056 (2022)."
